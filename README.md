@@ -1,4 +1,4 @@
-
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Tikaram</h1>
 <h3 align="center">A passionate Problem Solver & Frontend Developer from India</h3>
 <img align="right" alt="Coding"src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
