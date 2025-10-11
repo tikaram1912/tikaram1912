@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tikarammahato377@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1epjGY9BbppLSa-nm3-d08_DbD6HB41JS/view?usp=sharing](https://drive.google.com/file/d/1epjGY9BbppLSa-nm3-d08_DbD6HB41JS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DXK-cpszdcnE15m7W4s44aLknnJydI3c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
